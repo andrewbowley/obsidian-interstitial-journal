@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-interstitial-journal",
+	"name": "Interstitial Journal",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin for Obsidian that allows you to create interstitial journal entries.",
+	"author": "Andrew Bowley",
+	"authorUrl": "https://andrewbowley.com",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
